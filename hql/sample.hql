@@ -1,2 +1,1 @@
-use miriyala;
-
+create database if not exists 
